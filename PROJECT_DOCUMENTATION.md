@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+We chose our webpage topic to be on maple syrup, the iconic Canadian product and export.
 
 ## Team Members:
 
@@ -14,7 +14,7 @@
 
 ### Cao Jie Hao Cho:
 
--   Worked on [specific elements] of the webpage.
+-   Setup issues on GitHub Repo.
 
 ### Chuang Li:
 
@@ -22,4 +22,4 @@
 
 ### Paul Santos:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled images and SVG elements, covering elements in the `<body>` and `<footer>` tags. Compiled documentation in this Markdown file.
