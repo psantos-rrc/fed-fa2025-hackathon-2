@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+This project focuses on creating a simple informative webpage about maple syrup using HTML, exploring its origins, production, and modern uses. The primary objectives are to educate visitors on the history and benefits of maple syrup, showcase elements like recipes and production details through HTML structures.
+
 
 ## Team Members:
 
@@ -18,7 +19,7 @@
 
 ### Chuang Li:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   content of the origins, production, and modern uses.
 
 ### Paul Santos:
 
