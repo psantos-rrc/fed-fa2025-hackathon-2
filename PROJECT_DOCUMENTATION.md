@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+We chose our webpage topic to be on maple syrup, the iconic Canadian product and export.
 
 ## Team Members:
 
