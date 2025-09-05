@@ -14,12 +14,17 @@ This project focuses on creating a simple informative webpage about maple syrup 
 
 ### Cao Jie Hao Cho:
 
--   Setup issues on GitHub Repo.
+-   Setup issues on GitHub Repo. Additional formatting and Overview section with hyperlinks to each section.
 
 ### Chuang Li:
 
--   content of the origins, production, and modern uses.
+-   Content of the origins, production, and modern uses.
 
 ### Paul Santos:
 
--   Handled images and SVG elements, covering elements in the `<body>` and `<footer>` tags. Compiled documentation in this Markdown file.
+-   Handled images and SVG elements, covering elements in the `<body>` and `<footer>` tags. 
+
+### All members:
+
+-   Code review and merge conflict resolution
+-   Updating project documentation in this file
