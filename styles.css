@@ -1,32 +1,60 @@
-@media screen and (max-height: 1000px) and (max-width: 600px){
-    header { font-size: large; }
-    body { font-size: large; }
-    footer {font-size: large; }
+header
+{
+    display: block;
+    text-align: center;
 }
+
 
 body {
     background-color: burlywood;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px
+}
 
-    .images{
-        .gallery {
-            display: flex;
-            flex-flow: row wrap;
-            justify-content: space-around;
-            
-            img {
-                max-width: 100%;
-                height: auto;
-                object-fit: cover;
-                vertical-align: top;
-            }
-            
-        }
+.Overview a
+{
+    text-decoration: none;
+    color: black;
+    position: relative
+}
+
+.Overview a:hover
+{
+    color: ivory
+}
+
+.Overview a::after
+{
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: gold;
+    transform: scaleX(0);
+    transform-origin: center;
+    transition: transform 0.3s ease;
+}
+
+.Overview a:hover::after
+{
+    transform: scaleX(1);
+}
+
+@media (max-width: 720px) 
+{
+    .Images figure 
+    {
+      width: 90%;
+      max-width: 400px;
+      text-align: center;
+    }
+  
+    .Images img 
+    {
+      display: block;
+      width: 100%;
+      height: auto;
     }
 }
-
-footer {
-    display: block;
-    text-align: center;
-    border-top: 1px solid black;
-}
+  
