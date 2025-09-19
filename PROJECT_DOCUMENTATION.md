@@ -17,7 +17,7 @@ This project focuses on creating a simple informative webpage about maple syrup 
 
 ### Paul Santos:
 
--   Handled images and SVG elements, covering elements in the `<body>` and `<footer>` tags. 
+-   Modified the footer design using CSS. Added flexbox properties for the image gallery to allow it to respond to different viewport dimensions. 
 
 ### All members:
 
