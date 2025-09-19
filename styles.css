@@ -2,3 +2,10 @@ body {
     background-color: burlywood;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+footer {
+    display: inline-block
+    svg {
+        display: inline
+    }
+}
