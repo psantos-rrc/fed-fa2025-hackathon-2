@@ -24,6 +24,6 @@ This project focuses on creating a simple informative webpage about maple syrup 
 -   Code review and merge conflict resolution
 -   Updating project documentation in this file
 
-#### *Chuang Li:
+#### * Chuang Li:
 
 -   Provided content in the previous hackathon which was used in this project. Did not participate directly in this project.

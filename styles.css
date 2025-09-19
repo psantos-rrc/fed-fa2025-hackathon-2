@@ -1,11 +1,25 @@
+@media screen and (max-height: 1000px) and (max-width: 600px){
+    header { font-size: large; }
+    main { font-size: large; }
+    footer {font-size: large; }
+}
+
 body {
     background-color: burlywood;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    .Images {
+
+        display: grid;
+        grid-template-columns: min-content auto auto;
+        padding: -10px;
+        margin: -10px;
+
+    }
 }
 
 footer {
-    display: inline-block
-    svg {
-        display: inline
-    }
+    display: block;
+    text-align: center;
+    border-top: 1px solid black;
 }
