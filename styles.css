@@ -1,6 +1,6 @@
 @media screen and (max-height: 1000px) and (max-width: 600px){
     header { font-size: large; }
-    main { font-size: large; }
+    body { font-size: large; }
     footer {font-size: large; }
 }
 
@@ -8,13 +8,20 @@ body {
     background-color: burlywood;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
-    .Images {
-
-        display: grid;
-        grid-template-columns: min-content auto auto;
-        padding: -10px;
-        margin: -10px;
-
+    .images{
+        .gallery {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: space-around;
+            
+            img {
+                max-width: 100%;
+                height: auto;
+                object-fit: cover;
+                vertical-align: top;
+            }
+            
+        }
     }
 }
 
