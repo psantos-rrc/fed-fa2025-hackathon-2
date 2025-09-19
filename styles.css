@@ -74,3 +74,9 @@ body {
     }
 }
   
+
+footer {
+    display: block;
+    text-align: center;
+    border-top: 1px solid black;
+}
